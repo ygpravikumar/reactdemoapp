@@ -1,0 +1,27 @@
+div.searchbar {
+    margin-bottom:15px;
+    margin-top:15px;
+    background-color: #f4f4f4;
+    border: medium none;
+    box-shadow: 1px 0 5px 1px rgba(204, 204, 204, 1);
+    padding: 15px 15px 15px 15px;
+}
+
+div.header{
+    padding: 15px 15px 15px 15px;
+}
+
+div.container-fluid.content{  
+    min-height:70vh;
+    min-width:900px;
+    padding: 15px 15px 0 15px;
+    /* overflow-x: auto; */
+}
+
+div.mtxcontext.tree, div.mtxcontext.materialeditor, div.mtxcontext.viewer{
+    height:60vh;
+    background-color: #f4f4f4;
+    border: medium none;
+    box-shadow: 1px 1px 5px 1px rgba(204, 204, 204, 1);
+}
+
